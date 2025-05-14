@@ -1,17 +1,15 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=vortex&color=0:3a1c71,50:d76d77,100:ffaf7b&height=300&section=header&text=GulfGulfinson&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Code%20Artisan&descAlignY=51&descAlign=62&fontColor=f7f7f7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,50:00d2ff,100:3a7bd5&height=300&section=header&text=GulfGulfinson&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Digital%20Architect&descAlignY=51&descAlign=62&fontColor=ffffff" />
 </div>
 
 <!-- WELCOME SECTION -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   Welcome to my Digital Workshop
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF5E5E&center=true&vCenter=true&random=false&width=600&height=60&lines=Java+Maven+Engineering+Specialist;Enterprise+Architecture+Designer;Ruby+Rails+Systems+Expert;COBOL+Legacy+Guardian" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=3a7bd5&center=true&vCenter=true&random=false&width=600&lines=Java+Maven+Engineering+Specialist;Enterprise+Architecture+Professional;Ruby+Rails+Systems+Expert;COBOL+Legacy+Guardian;Microservices+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,25 +23,22 @@
 <!-- ABOUT ME SECTION -->
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+• 🔧 **Backend Specialist** - Building robust enterprise systems with Java, Ruby, and COBOL
 
-Hello there! I'm **GulfGulfinson**, a seasoned backend architect with expertise in enterprise systems.
+• 💼 **Enterprise Architect** - Designing scalable applications that power mission-critical operations
 
-<ul style="list-style: none;">
-  <li>💼 &nbsp; Experienced backend developer specializing in Java, Ruby, and legacy systems</li>
-  <li>🔥 &nbsp; Expert in building robust, scalable applications with Maven</li>
-  <li>🏛️ &nbsp; Skilled in COBOL and modernizing mission-critical legacy systems</li>
-  <li>💎 &nbsp; Ruby on Rails enthusiast crafting elegant applications</li>
-  <li>🔄 &nbsp; Passionate about connecting technologies into harmonious systems</li>
-  <li>📊 &nbsp; Database performance optimization specialist</li>
-  <li>🧠 &nbsp; Constantly exploring new programming paradigms</li>
-  <li>👨‍🏫 &nbsp; Mentor to the next generation of code crafters</li>
-</ul>
+• 🧰 **Tech Stack Artisan** - Crafting elegant solutions with Java EE, Spring Boot, and Ruby on Rails
 
-> "The best code is like a well-designed building - elegant, efficient, and built to last." 
+• 🏛️ **Legacy System Expert** - Preserving and modernizing COBOL systems that stand the test of time
+
+• 🧩 **Integration Engineer** - Connecting disparate technologies into harmonious working systems
+
+• 📚 **Continuous Learner** - Always exploring new programming paradigms and optimization techniques
+
+> "Clean code isn't a luxury, it's a professional responsibility."
 
 <!-- TECH STACK -->
-## 🛠️ Technology Stack
+## 🧰 Technology Stack
 
 <div align="center">
 
@@ -100,46 +95,6 @@ Hello there! I'm **GulfGulfinson**, a seasoned backend architect with expertise 
   </p>
 </div>
 
-<!-- ANIMATED ASCII ART -->
-<div align="center">
-  <h2>🎬 Animation Magic 🎬</h2>
-  <pre>
-                         $$$$$$$$$$$$$$$$     
-                      $$$$$$$$$$$$$$$$$$$$$$$ 
-                    $$$$$$$$$$$$$$$$$$$$$$$$$$$
-          ,       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$      ,
-      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-         `\  /`   `\  /`   `\  /`   `\  /`   `\  /`   `\  /`
-           \/       \/       \/       \/       \/       \/  
-  ,                                                            ,
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                 \                                 
- \,.           \  |  /                             
-   \  `\~~~~~~~~~~~~~~/`                           \,.
-  `\  /`  The Web Of  `\     \,.        \,.    \,.  \   ,
-    \/    Development   \/             \    \    \  ~~~~~~~
-  ,                       ,    \,.  \   ~~~~~~~~~~~    \,. 
- ~~~~~~~~~~~~~~~~~~~~~~~~~                    \    \     
-               \,.               \,.    \,.    \,.  \   ,
-             \    \            \    \    \    \  ~~~~~~~
-                                \,.  \   ~~~~~~~~~~~    \,. 
-                              \    \              \    \     
-      ,       ,       ,       ,       ,       ,       ,
-  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-     /`\     /`\     /`\     /`\     /`\     /`\     /`\
-     \_/     \_/     \_/     \_/     \_/     \_/     \_/
-  </pre>
-</div>
-
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 <!-- CONNECT -->
 ## 🌐 Connect With Me
 <div align="center">
@@ -159,10 +114,10 @@ Hello there! I'm **GulfGulfinson**, a seasoned backend architect with expertise 
 
 <!-- PROFILE VIEWS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GulfGulfinson&style=flat-square&color=ff6b6b" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GulfGulfinson&style=flat-square&color=3a7bd5" alt="Profile Views" />
 </div>
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6b6b,50:d76d77,100:3a1c71&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,50:00d2ff,100:3a7bd5&height=150&section=footer&animation=fadeIn" />
 </div>
