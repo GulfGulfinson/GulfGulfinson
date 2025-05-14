@@ -21,7 +21,7 @@
 <br>
 
 <!-- ABOUT ME SECTION - REDESIGNED -->
-<h2 align="center">💫 Who Am I?</h2>
+<h2 align="center">🧠 Digital Craftsman</h2>
 
 <div align="center">
   <table border="0">
@@ -29,39 +29,39 @@
       <td width="50%" align="center">
         <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="80px">
         <br>
-        <b>Backend Maestro</b>
+        <b>Java Sorcerer</b>
         <br>
-        <i>Java, Ruby, COBOL</i>
+        <i>Enterprise solutions that endure</i>
       </td>
       <td width="50%" align="center">
         <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80px">
         <br>
-        <b>Architecture Virtuoso</b>
+        <b>System Designer</b>
         <br>
-        <i>Scaling the impossible</i>
+        <i>Building digital cathedrals</i>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="80px">
         <br>
-        <b>Legacy Whisperer</b>
+        <b>COBOL Guardian</b>
         <br>
-        <i>Modernizing the ancient</i>
+        <i>Bridging past and future</i>
       </td>
       <td width="50%" align="center">
         <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="80px">
         <br>
-        <b>Code Craftsman</b>
+        <b>Ruby Artisan</b>
         <br>
-        <i>Clean, efficient, robust</i>
+        <i>Elegance in simplicity</i>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <i>Clean code isn't a luxury, it's a professional responsibility.</i>
+  <i>"The art of programming is the skill of controlling complexity."</i>
 </div>
 
 <!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
@@ -71,6 +71,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
   </picture>
+</div>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GulfGulfinson&theme=github&hide_border=true" width="100%">
 </div>
 
 <!-- TECH STACK -->
