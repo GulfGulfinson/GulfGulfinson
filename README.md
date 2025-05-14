@@ -20,22 +20,58 @@
 
 <br>
 
-<!-- ABOUT ME SECTION -->
-## 👨‍💻 About Me
+<!-- ABOUT ME SECTION - REDESIGNED -->
+<h2 align="center">💫 Who Am I?</h2>
 
-• 🔧 **Backend Specialist** - Building robust enterprise systems with Java, Ruby, and COBOL
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="80px">
+        <br>
+        <b>Backend Maestro</b>
+        <br>
+        <i>Java, Ruby, COBOL</i>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80px">
+        <br>
+        <b>Architecture Virtuoso</b>
+        <br>
+        <i>Scaling the impossible</i>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/8qrrHSsrK9xpknGVNF/giphy.gif" width="80px">
+        <br>
+        <b>Legacy Whisperer</b>
+        <br>
+        <i>Modernizing the ancient</i>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="80px">
+        <br>
+        <b>Code Craftsman</b>
+        <br>
+        <i>Clean, efficient, robust</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
-• 💼 **Enterprise Architect** - Designing scalable applications that power mission-critical operations
+<div align="center">
+  <i>Clean code isn't a luxury, it's a professional responsibility.</i>
+</div>
 
-• 🧰 **Tech Stack Artisan** - Crafting elegant solutions with Java EE, Spring Boot, and Ruby on Rails
-
-• 🏛️ **Legacy System Expert** - Preserving and modernizing COBOL systems that stand the test of time
-
-• 🧩 **Integration Engineer** - Connecting disparate technologies into harmonious working systems
-
-• 📚 **Continuous Learner** - Always exploring new programming paradigms and optimization techniques
-
-> "Clean code isn't a luxury, it's a professional responsibility."
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <!-- TECH STACK -->
 ## 🧰 Technology Stack
