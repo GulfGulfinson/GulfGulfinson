@@ -1,17 +1,17 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:051937,50:004d7a,100:008793&height=300&section=header&text=GulfGulfinson&fontSize=90&animation=twinkling&fontAlignY=38&desc=Cosmic%20Backend%20Engineer%20|%20Digital%20Architect&descAlignY=51&descAlign=62&fontColor=d6eaff" />
+  <img src="https://capsule-render.vercel.app/api?type=vortex&color=0:3a1c71,50:d76d77,100:ffaf7b&height=300&section=header&text=GulfGulfinson&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Code%20Artisan&descAlignY=51&descAlign=62&fontColor=f7f7f7" />
 </div>
 
-<!-- GALACTIC WELCOME SECTION -->
+<!-- WELCOME SECTION -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="40">
-  Welcome to my Interstellar Tech Realm
-  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Welcome to my Digital Workshop
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00AAFF&center=true&vCenter=true&random=false&width=600&lines=Java+Maven+Engineering+Specialist;Enterprise+Architecture+Commander;Ruby+Rails+Systems+Expert;COBOL+Legacy+Guardian;Microservices+Constellation+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF5E5E&center=true&vCenter=true&random=false&width=600&height=60&lines=Java+Maven+Engineering+Specialist;Enterprise+Architecture+Designer;Ruby+Rails+Systems+Expert;COBOL+Legacy+Guardian" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,29 +22,28 @@
 
 <br>
 
-<!-- POKEMON ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="100">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" width="100">
-</div>
-
-<!-- EXPANDED ABOUT ME SECTION -->
-## 🚀 About The Cosmic Engineer
+<!-- ABOUT ME SECTION -->
+## 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-Greetings, digital voyager! I'm **GulfGulfinson**, a seasoned backend architect navigating the vast universe of enterprise systems.
+Hello there! I'm **GulfGulfinson**, a seasoned backend architect with expertise in enterprise systems.
 
-My journey spans across galaxies of **Java Enterprise ecosystems**, where I've mastered the art of building robust, scalable applications with Maven that power mission-critical operations. I'm fluent in the ancient language of **COBOL**, preserving and modernizing legacy systems that have stood the test of time.
+<ul style="list-style: none;">
+  <li>💼 &nbsp; Experienced backend developer specializing in Java, Ruby, and legacy systems</li>
+  <li>🔥 &nbsp; Expert in building robust, scalable applications with Maven</li>
+  <li>🏛️ &nbsp; Skilled in COBOL and modernizing mission-critical legacy systems</li>
+  <li>💎 &nbsp; Ruby on Rails enthusiast crafting elegant applications</li>
+  <li>🔄 &nbsp; Passionate about connecting technologies into harmonious systems</li>
+  <li>📊 &nbsp; Database performance optimization specialist</li>
+  <li>🧠 &nbsp; Constantly exploring new programming paradigms</li>
+  <li>👨‍🏫 &nbsp; Mentor to the next generation of code crafters</li>
+</ul>
 
-In the Ruby nebula, I craft elegant **Rails applications** that balance beauty and functionality. My passion lies in connecting disparate technologies into harmonious systems – from high-throughput message queues to resilient microservices constellations.
+> "The best code is like a well-designed building - elegant, efficient, and built to last." 
 
-When I'm not orchestrating digital symphonies with code, I'm exploring new programming paradigms, optimizing database performance, and mentoring the next generation of cosmic code crafters.
-
-> "The best code is like the universe itself - elegant, efficient, and built to last for eons." 
-
-<!-- MY TECH UNIVERSE -->
-## 🌌 Technology Constellation
+<!-- TECH STACK -->
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -88,46 +87,11 @@ When I'm not orchestrating digital symphonies with code, I'm exploring new progr
     <img src="https://img.shields.io/badge/RubyGems-E9573F?style=for-the-badge&logo=rubygems&logoColor=white" />
   </p>
 
-  ### 🔌 Backend Frameworks
-  <p>
-    <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  </p>
-
   ### 🛢️ Databases
   <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/H2-4169E1?style=for-the-badge" />
-  </p>
-
-  ### 🚀 DevOps & Infrastructure
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </p>
-
-  ### 🔄 API & Integration
-  <p>
-    <img src="https://img.shields.io/badge/REST-202124?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/WebHooks-0D1117?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Spring_Integration-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" />
-  </p>
-
-  ### 🧪 Testing Tools
-  <p>
-    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-    <img src="https://img.shields.io/badge/RuboCop-000000?style=for-the-badge&logo=rubocop&logoColor=white" />
   </p>
 
   ### 🏛️ Legacy & Mainframe
@@ -136,65 +100,35 @@ When I'm not orchestrating digital symphonies with code, I'm exploring new progr
   </p>
 </div>
 
-<!-- GLOWING TEXT -->
+<!-- ANIMATED ASCII ART -->
 <div align="center">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00CCFF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Digital+Architect+%E2%9A%A1;%F0%9F%94%A5+Enterprise+System+Designer+%F0%9F%94%A5;%F0%9F%8C%9F+Backend+Constellation+Creator+%F0%9F%8C%9F" alt="Glowing Text" />
-  <br>
-</div>
-
-<!-- DANCING BEAR ASCII ART -->
-<div align="center">
-  <h2>🐻 The Cosmic Dancing Bear 🐻</h2>
+  <h2>🎬 Animation Magic 🎬</h2>
   <pre>
-     ┏┓      ┏┓
-     ┃┃      ┃┃
-     ┃┃      ┃┃
-     ┃┃      ┃┃
-     ┃┗━━━━━━┛┃
-    ┏┛ ┏━━━━┓ ┗┓
-    ┃ ━┫    ┣━ ┃
-    ┃  ┃o  o┃  ┃
-    ┃  ┃╰━━╯┃  ┃
-    ┃  ┃┏━━┓┃  ┃
-    ┃  ┗┛  ┗┛  ┃
-    ┗━━━━━━━━━━┛
-
-  .｡o●ﾟ｡o○｡o●ﾟ｡o○ DANCE ○o｡ﾟ●o｡○o｡ﾟ●o｡.
-            ┏┓ ╭━━━╮
-            ┃┃ ┃   ┃
-            ┃┃ ┃   ┃
-            ┃┃ ┃   ┃
-            ┃┗━┫   ┃
-           ┏┛ ┏┛   ┃
-           ┃ ━┫    ┃
-           ┃  ┃o  o┃
-           ┃  ┃┏━━━┛
-           ┃  ┃┃
-           ┃  ┗┛
-           ┗━━━━━━━━
-  .｡o●ﾟ｡o○｡o●ﾟ｡o○ BEAR ○o｡ﾟ●o｡○o｡ﾟ●o｡.
+                         $$$$$$$$$$$$$$$$     
+                      $$$$$$$$$$$$$$$$$$$$$$$ 
+                    $$$$$$$$$$$$$$$$$$$$$$$$$$$
+          ,       $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$      ,
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         `\  /`   `\  /`   `\  /`   `\  /`   `\  /`   `\  /`
+           \/       \/       \/       \/       \/       \/  
+  ,                                                            ,
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                 \                                 
+ \,.           \  |  /                             
+   \  `\~~~~~~~~~~~~~~/`                           \,.
+  `\  /`  The Web Of  `\     \,.        \,.    \,.  \   ,
+    \/    Development   \/             \    \    \  ~~~~~~~
+  ,                       ,    \,.  \   ~~~~~~~~~~~    \,. 
+ ~~~~~~~~~~~~~~~~~~~~~~~~~                    \    \     
+               \,.               \,.    \,.    \,.  \   ,
+             \    \            \    \    \    \  ~~~~~~~
+                                \,.  \   ~~~~~~~~~~~    \,. 
+                              \    \              \    \     
+      ,       ,       ,       ,       ,       ,       ,
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     /`\     /`\     /`\     /`\     /`\     /`\     /`\
+     \_/     \_/     \_/     \_/     \_/     \_/     \_/
   </pre>
-</div>
-
-<!-- CREATIVE COSMIC JOURNEY VISUALIZATION -->
-## 🌠 Interstellar Tech Journey
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GulfGulfinson&theme=react-dark&hide_border=true&area=true" width="100%">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=GulfGulfinson&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GulfGulfinson&theme=tokyonight&hide_border=true&background=0D1117" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
@@ -206,73 +140,29 @@ When I'm not orchestrating digital symphonies with code, I'm exploring new progr
   </picture>
 </div>
 
-<!-- STELLAR PROJECT SHOWCASE -->
-## 🌟 Stellar Project Nebula
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Enterprise Java Constellation</h3>
-        <div align="center">
-          <a href="https://github.com/GulfGulfinson" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100"/>
-          </a>
-          <p>
-            <a href="https://github.com/GulfGulfinson" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-00AAFF?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
-          <p>
-            <strong>Java, Spring Boot, Microservices</strong> - Enterprise-grade architecture with high availability and fault tolerance.
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Legacy COBOL Modernization</h3>
-        <div align="center">
-          <a href="https://github.com/GulfGulfinson" target="_blank">
-            <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Legacy" width="100"/>
-          </a>
-          <p>
-            <a href="https://github.com/GulfGulfinson" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-4A2EBD?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
-          <p>
-            <strong>COBOL, Java JNI, API Gateway</strong> - Breathing new life into mission-critical legacy systems.
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- CONNECT -->
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://github.com/GulfGulfinson">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://reddit.com">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-</div>
-
-<!-- PROFILE TROPHY -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GulfGulfinson&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GulfGulfinson Trophies" />
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 <!-- PROFILE VIEWS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GulfGulfinson&style=flat-square&color=6c8eff" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GulfGulfinson&style=flat-square&color=ff6b6b" alt="Profile Views" />
 </div>
 
-<!-- ANIMATED FOOTER -->
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:051937,50:004d7a,100:008793&height=150&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6b6b,50:d76d77,100:3a1c71&height=150&section=footer" />
 </div>
