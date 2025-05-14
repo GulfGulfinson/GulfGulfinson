@@ -1,17 +1,17 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=GulfGulfinson&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20|%20Code%20Enthusiast&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=GulfGulfinson&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Java%20Maven%20Expert&descAlignY=51&descAlign=62" />
 </div>
 
 <!-- WELCOME SECTION -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Welcome to my digital universe!
+  Welcome to my Java backend universe!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F731D3&center=true&vCenter=true&random=false&width=435&lines=Professional+Code+Wizard;Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7892B&center=true&vCenter=true&random=false&width=435&lines=Java+Maven+Expert;Enterprise+Backend+Developer;Spring+Boot+Specialist;Ruby+Rails+Developer;COBOL+Legacy+Systems" alt="Typing SVG" />
 </div>
 
 <br>
@@ -19,30 +19,33 @@
 <!-- BADGES -->
 <div align="center">
   <a href="https://github.com/GulfGulfinson"><img src="https://img.shields.io/github/followers/GulfGulfinson?label=Followers&style=social" alt="GitHub Badge"></a>
-  <img src="https://img.shields.io/badge/Mood-Awesome-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-Coding%20in%20Progress-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Coffee%20Level-High-brown?style=flat-square&logo=buymeacoffee">
+  <img src="https://img.shields.io/badge/Java-Maven-red?style=flat-square&logo=java">
+  <img src="https://img.shields.io/badge/Spring-Boot-green?style=flat-square&logo=spring">
+  <img src="https://img.shields.io/badge/Ruby-Rails-red?style=flat-square&logo=ruby">
+  <img src="https://img.shields.io/badge/COBOL-Mainframe-blue?style=flat-square">
 </div>
 
 <!-- POKEMON ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="100">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="100">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" width="100">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="100">
 </div>
 
 <!-- ABOUT ME -->
 ## 🚀 About Me
-```javascript
-const gulfGulfinson = {
-  location: "Digital Ocean 🌊",
-  occupation: ["Developer", "Creator", "Innovator"],
-  interests: ["Coding", "Open Source", "Technology", "Innovation"],
-  challenge: "Creating the most visually stunning GitHub profile ever",
-  funFact: "I can code with my eyes closed... but the results aren't pretty",
-  dailyMotivation: "Making impossible possible through code"
-};
+```java
+public class GulfGulfinson {
+    private final String location = "Enterprise Backend World 🏢";
+    private final String[] expertise = {"Java", "Spring Boot", "Maven", "Ruby on Rails", "COBOL"};
+    private final String[] interests = {"Microservices", "RESTful APIs", "Database Optimization", "Legacy Systems"};
+    private final String challenge = "Building scalable enterprise Java applications with Maven";
+    private final String funFact = "I've maintained COBOL systems that are older than I am";
+    private final String dailyMotivation = "Elegant backend solutions drive the world's infrastructure";
+    
+    public void code() {
+        System.out.println("Building robust backend systems with Java and Maven...");
+    }
+}
 ```
 
 <!-- COOL QUOTE -->
@@ -62,11 +65,14 @@ const gulfGulfinson = {
 <!-- TOOLS AND TECHNOLOGIES -->
 ## 🛠️ Technologies & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/COBOL-1572B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
@@ -74,33 +80,111 @@ const gulfGulfinson = {
 <!-- GLOWING TEXT -->
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F724&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Power+Coder+%E2%9A%A1;%F0%9F%94%A5+GitHub+Master+%F0%9F%94%A5;%F0%9F%8C%9F+Innovation+Wizard+%F0%9F%8C%9F" alt="Glowing Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F724&center=true&vCenter=true&width=435&lines=%E2%9A%A1+Java+Maven+Guru+%E2%9A%A1;%F0%9F%94%A5+Spring+Boot+Master+%F0%9F%94%A5;%F0%9F%8C%9F+Ruby+Rails+Wizard+%F0%9F%8C%9F" alt="Glowing Text" />
   <br>
 </div>
 
 <!-- ASCII ART -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=1000&color=F70000&center=true&width=435&lines=ASCII+Art+Magic+Loading...;.;..;..." alt="ASCII Art Magic Loading" /></a>
-</div>
-
-<div align="center">
-  <script src="http://www.qqpr.com/ascii/js/1003.js"></script>
-</div>
-
-<!-- ANIMATED MATRIX RAIN EFFECT -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <pre>
+       _                      _______                      _
+    _dMMMb._              .adOOOOOOOOOba.              _,dMMMb_
+   dP'  ~YMMb            dOOOOOOOOOOOOOOOb            aMMP~  `Yb
+   V      ~"Mb          dOOOOOOOOOOOOOOOOOb          dM"~      V
+            `Mb.       dOOOOOOOOOOOOOOOOOOOb       ,dM'
+             `YMb._   |OOOOOOOOOOOOOOOOOOOOO|   _,dMP'
+        __     `YMMM| OP'~"YOOOOOOOOOOOP"~`YO |MMMP'     __
+      ,dMMMb.     ~~' OO     `YOOOOOP'     OO `~~     ,dMMMb.
+   _,dP~  `YMba_      OOb      `OOO'      dOO      _aMMP'  ~Yb._
+  <MMP'     `~YMMa_   YOOo   @  OOO  @   oOOP   _adMP~'      `YMM>
+               `YMMMM\`OOOo     OOO     oOOO'/MMMMP'
+       ,aa.     `~YMMb `OOOb._,dOOOb._,dOOO'dMMP~'       ,aa.
+     ,dMYYMba._         `OOOOOOOOOOOOOOOOO'          _,adMYYMb.
+    ,MP'   `YMMba._      OOOOOOOOOOOOOOOOO       _,adMMP'   `YM.
+    MP'        ~YMMMba._ YOOOOPVVVVVYOOOOP  _,adMMMMP~       `YM
+    YMb           ~YMMMM\`OOOOI`````IOOOOO'/MMMMP~           dMP
+     `Mb.           `YMMMb`OOOI,,,,,IOOOO'dMMMP'           ,dM'
+       `'                  `OObNNNNNdOO'                   `'
+                             `~OOOOO~'   JAVA/MAVEN POWER!
+  </pre>
 </div>
 
 <!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
-<!-- ANIMATED ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GulfGulfinson&theme=react-dark" width="100%" />
-</div>
+<!-- BACKEND SPECIFIC CONTENT -->
+## 🏗️ Backend Architecture Expertise
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│                    Client Applications                   │
+│                                                          │
+└───────────────────────────┬──────────────────────────────┘
+                            │
+┌───────────────────────────┼──────────────────────────────┐
+│   ┌─────────────────┐     │     ┌─────────────────────┐  │
+│   │                 │     │     │                     │  │
+│   │   Java Spring   │◄────┼────►│   API Gateway       │  │
+│   │   Boot APIs     │     │     │                     │  │
+│   │                 │     │     │                     │  │
+│   └────────┬────────┘     │     └─────────────────────┘  │
+│            │              │                              │
+│   ┌────────┼────────┐     │     ┌─────────────────────┐  │
+│   │        │        │     │     │                     │  │
+│   │  Ruby  │  COBOL │◄────┼────►│   Cache Layer       │  │
+│   │  Rails │ Legacy │     │     │                     │  │
+│   │        │        │     │     │                     │  │
+│   └────────┼────────┘     │     └─────────────────────┘  │
+│            │              │                              │
+│   ┌────────┴────────┐     │     ┌─────────────────────┐  │
+│   │                 │     │     │                     │  │
+│   │   Data Access   │◄────┼────►│   Message Queue     │  │
+│   │   Layer         │     │     │                     │  │
+│   │                 │     │     │                     │  │
+│   └────────┬────────┘     │     └─────────────────────┘  │
+│            │              │                              │
+└────────────┼──────────────┴──────────────────────────────┘
+             │
+┌────────────┴─────────────────────────────────────────────┐
+│                                                          │
+│                    Database Layer                        │
+│     (Oracle, PostgreSQL, IBM DB2 for COBOL systems)      │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+<!-- JAVA CODE SAMPLES -->
+## 📘 Java Maven Expertise
+```java
+// Spring Boot REST API with Maven
+@RestController
+@RequestMapping("/api/v1")
+public class EnterpriseController {
+    
+    private final BusinessService businessService;
+    
+    @Autowired
+    public EnterpriseController(BusinessService businessService) {
+        this.businessService = businessService;
+    }
+    
+    @GetMapping("/enterprise-data")
+    public ResponseEntity<List<EnterpriseData>> getEnterpriseData() {
+        return ResponseEntity.ok(businessService.retrieveEnterpriseData());
+    }
+    
+    @PostMapping("/process")
+    public ResponseEntity<ProcessResult> processData(@RequestBody DataPayload payload) {
+        return ResponseEntity.ok(businessService.processBusinessLogic(payload));
+    }
+}
+```
 
 <!-- CONNECT -->
 ## 🌐 Connect With Me
