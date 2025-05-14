@@ -1,0 +1,69 @@
+==== PROGRAMMING LANGUAGES ====
+Java
+JavaScript
+Python
+Ruby
+C++
+COBOL
+Perl
+Lua
+
+
+==== JAVA ECOSYSTEM ====
+Spring Framework
+Spring Boot
+Jakarta EE (formerly Java EE)
+Hibernate
+JPA
+JUnit
+Mockito
+Maven
+JavaFX
+Swing
+Lombok
+
+==== RUBY ECOSYSTEM ====
+Ruby on Rails
+Minitest
+Sidekiq
+RVM
+rbenv
+Bundler
+RuboCop
+Liquid
+RubyGems
+
+==== BACKEND FRAMEWORKS ====
+Rails
+Spring Boot
+
+==== DATABASES ====
+PostgreSQL
+SQLite
+H2 Database
+
+==== DEVOPS & INFRASTRUCTURE ====
+Docker
+Docker Compose
+Ansible
+Jenkins
+GitHub Actions
+GitLab CI/CD
+
+==== API & INTEGRATION ====
+REST
+GraphQL
+WebSockets
+WebHooks
+Spring Integration
+Postman
+Swagger/OpenAPI
+
+==== TESTING TOOLS ====
+JUnit
+Mockito
+Selenium
+RuboCop
+
+==== LEGACY & MAINFRAME ====
+COBOL
