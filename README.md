@@ -60,19 +60,6 @@
   </table>
 </div>
 
-<div align="center">
-  <i>"The art of programming is the skill of controlling complexity."</i>
-</div>
-
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/GulfGulfinson/GulfGulfinson/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GulfGulfinson&theme=github&hide_border=true" width="100%">
@@ -86,8 +73,6 @@
   ### 🌟 Programming Languages
   <p>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/COBOL-1572B6?style=for-the-badge" />
